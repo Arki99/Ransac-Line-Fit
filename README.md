@@ -1,5 +1,5 @@
 # Ransac-Line-Fit
-Python implementation of RANSAC line fitting algorithm.
+Python implementation of RANSAC line fitting algorithm
 
 # Requirements:
 1) Python 3.x
